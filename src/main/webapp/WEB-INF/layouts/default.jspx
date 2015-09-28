@@ -16,6 +16,7 @@
 	</head>
 	
   	<body class="tundra spring">
+  		<h1>ЦОЛО Е МАГАРЕ</h1>
    		<div id="wrapper">
 		    <tiles:insertAttribute name="header" ignore="true" />
 		    <tiles:insertAttribute name="menu" ignore="true" />   
